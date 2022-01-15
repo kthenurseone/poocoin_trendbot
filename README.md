@@ -17,7 +17,7 @@
 </p>
 
 ## About
-Dextool Trend bot makes your token trending on dextools.
+Poocoin Trend bot makes your token trending on poocoin.
 
 If you are interested message me on Telegram [@kthenurseone](https://t.me/kthenurseone). 
 
